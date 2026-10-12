@@ -21,7 +21,12 @@ This project is part of my journey to learn game development and build practical
 To learn and implement fundamental game development concepts, including character movement, jumping, and coin collection in a 3D environment.
 
 ## 📸 Screenshots
-Gameplay screenshots will be added soon.
+<img width="944" height="440" alt="Screenshot 2026-10-12 154027" src="https://github.com/user-attachments/assets/8404bdfc-da12-4c75-8487-4be82e6da38a" />
+<img width="948" height="436" alt="Screenshot 2026-10-12 153929" src="https://github.com/user-attachments/assets/54cf075f-5ec0-4862-b9fd-c9740dadbda0" />
+<img width="942" height="434" alt="Screenshot 2026-10-12 153957" src="https://github.com/user-attachments/assets/5851aab0-f5ad-4c2c-8cf8-3d3346795303" />
+
+
+
 
 ## 👨‍💻 Developer
 **Eliyaz SK**
